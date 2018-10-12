@@ -1,0 +1,7 @@
+C:\Users\jstiles\source\repos\BondJames_JayStiles\BondJames_JayStiles\bin\Debug\BondJames_JayStiles.exe.config
+C:\Users\jstiles\source\repos\BondJames_JayStiles\BondJames_JayStiles\bin\Debug\BondJames_JayStiles.exe
+C:\Users\jstiles\source\repos\BondJames_JayStiles\BondJames_JayStiles\bin\Debug\BondJames_JayStiles.pdb
+C:\Users\jstiles\source\repos\BondJames_JayStiles\BondJames_JayStiles\obj\Debug\BondJames_JayStiles.csprojAssemblyReference.cache
+C:\Users\jstiles\source\repos\BondJames_JayStiles\BondJames_JayStiles\obj\Debug\BondJames_JayStiles.csproj.CoreCompileInputs.cache
+C:\Users\jstiles\source\repos\BondJames_JayStiles\BondJames_JayStiles\obj\Debug\BondJames_JayStiles.exe
+C:\Users\jstiles\source\repos\BondJames_JayStiles\BondJames_JayStiles\obj\Debug\BondJames_JayStiles.pdb
